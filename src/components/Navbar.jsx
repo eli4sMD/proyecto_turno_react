@@ -29,16 +29,16 @@ const Navbar = (props) => {
                   <li class="nav-item dropdown">
                         <a class='nav-link align-items-top ' href='#' role='button' data-toggle='dropdown' aria-haspopup='true' aria-expanded='false'>
                            <p>$usuario</p>
-                        </a>;
+                        </a>
 
                         
                         <div class="dropdown-menu">;
-                              <a class='dropdown-item' href='components-bootstrap.html'>usuario</a>;
-                              <a class="dropdown-item" href="components-bootstrap.html">Historial Médico</a>;
-                              <a class="dropdown-item" href="components-robust.html">Mis Turnos</a>;
-                              <a class="dropdown-item" href="components-bootstrap.html">"           "</a>;
-                              <a class="dropdown-item" href="../PHP/login/salir.php">Cerrar Sesión</a>;
-                        </div>;
+                              <a class='dropdown-item' href='components-bootstrap.html'>usuario</a>
+                              <a class="dropdown-item" href="components-bootstrap.html">Historial Médico</a>
+                              <a class="dropdown-item" href="components-robust.html">Mis Turnos</a>
+                              <a class="dropdown-item" href="components-bootstrap.html">"           "</a>
+                              <a class="dropdown-item" href="../PHP/login/salir.php">Cerrar Sesión</a>
+                        </div>
                   </li>
                </ul>  
                </div>

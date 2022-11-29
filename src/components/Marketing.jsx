@@ -77,72 +77,7 @@ const Marketing = () => {
                   </div>
                </div>
             </div>
-         </div>
-         
-         <div className="bg-white py-7">
-            <div className="container">
-               <div className="row mb-6">
-                  <div className="col-md-3 ml-auto">
-                     <h2>Noticias</h2>
-                  </div>
-                  <div className="col-md-5 mr-auto">
-                     <p className="lead text-dark" style="text-align: justify ;">
-                     Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                     Consequuntur hic commodi, fugiat aspernatur adipisci est
-                     accusantium modi expedita recusandae distinctio eligendi
-                     officiis ducimus odit et deserunt fuga labore facilis ipsa!
-                     </p>
-                  </div>
-               </div>
-
-               <div className="row mt-5 bg">
-                  <a className="col-md-4 img-fluid shadow-sm">
-                     <div className="media">
-                        <div className="icon mr-3">
-                           <i className="far fa-id-badge"></i>
-                        </div>
-                        <div className="media-body">
-                           <h3 className="h4">Salud confirma el cuarto caso de viruela símica en el país</h3>
-                           <p className="text-dark" style="text-align:justify;">
-                           Dio positivo el análisis que realizó ANLIS- Malbrán de un residente de la ciudad mendocina de
-                           Godoy Cruz con antecedente de viaje a España. A la fecha, no se han registrado casos secundarios
-                           a partir de los cuatro casos confirmados.
-                           </p>
-                        </div>
-                     </div>
-                  </a>
-                  <a href="" className="col-md-4 img-fluid shadow-sm">
-                     <div className="media">
-                     <div className="icon mr-3 bg-warning">
-                        <i className="far fa-hand-scissors"></i>
-                     </div>
-                     <div className="media-body">
-                        <h3 className="h4">Argentina recibió hoy 1.998.600 vacunas de Moderna</h3>
-                        <p className="text-dark" style="text-align:justify ;">
-                           Con este embarque el Plan Estratégico de Vacunación contra el SARS-CoV-2
-                           sigue fortaleciéndose en las jurisdicciones superando ya los 123 millones 
-                           de dosis recibidas de diferentes laboratorios proveedores desde que inició 
-                           la campaña de vacunación.
-                        </p>
-                     </div>
-                     </div>
-                  </a>
-                  <a href="" className="col-md-4 img-fluid shadow-sm">
-                     <div className="media">
-                        <div className="icon mr-3 bg-danger">
-                           <i className="far fa-comments"></i>
-                        </div>
-                        <div className="media-body">
-                           <h3 className="h4">Salud distribuyó 741.340 vacunas de Moderna a todo el país</h3>
-                           <p className="text-dark text-left" style="text-align: justify ;">
-                           La cartera sanitaria envió, además, otras 10.000 dosis pediátricas de Pfizer a la provincia de Chaco.
-                           </p>
-                        </div>
-                     </div>
-                  </a>
-               </div>
-            </div>
-         </div>
+         </div> 
       </main>
    )
 }
